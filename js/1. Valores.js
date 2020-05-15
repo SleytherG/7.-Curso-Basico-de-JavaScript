@@ -1,0 +1,4 @@
+String
+Boolean
+Number
+Object
